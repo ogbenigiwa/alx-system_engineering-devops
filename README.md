@@ -1,3 +1,4 @@
---README--
-This repository contains various shell scripting
-for automating tasks in shells
+**README**
+This readme files gives description of the scripts and its usage
+
+# 0-current_working_directory
