@@ -1,3 +1,3 @@
 --README--
 This repository contains various shell scripting
-for automating tasks
+for automating tasks in shell
